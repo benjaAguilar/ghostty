@@ -1,9 +1,10 @@
 theme = "One Double Dark"
 background-opacity = 0.90
-background-blur = 20
+background-blur = 10
 
 keybind = ctrl+r=reload_config
 
 gtk-custom-css = ./tabs.css 
 gtk-wide-tabs = false
 gtk-tabs-location = bottom
+bell-features = system 
