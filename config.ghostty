@@ -1,6 +1,9 @@
-theme = "One Double Dark"
-background-opacity = 0.90
-background-blur = 10
+theme = "Dracula"
+
+background-opacity = 0.95
+background-blur = true
+
+async-backend = epoll
 
 keybind = ctrl+r=reload_config
 
